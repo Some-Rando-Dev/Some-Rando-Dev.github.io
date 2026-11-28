@@ -1,0 +1,7 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "The Name's The Thing",
+  "home_page_url": "https://some-rando-dev.github.io",
+  "feed_url": "https://some-rando-dev.github.io/feed.json",
+  "items": []
+}
